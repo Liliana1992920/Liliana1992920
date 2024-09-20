@@ -21,12 +21,18 @@ Mis habilidades incluyen liderar proyectos de pruebas funcionales, E2E (end-to-e
 
 ![Postman](images/postman-icon.png)
 ![T-SQL](images/sql-icon.png)
-![PL-SQL](images/sql-icon.png)
+![PL-SQL](images/plsql-icon.png)
 ![Jira](images/jira-icon.png)
 ![Excel](images/excel-icon.png)
 ![SAP](images/sap-icon.png)
 ![Visual Studio Code](images/vscode-icon.png)
 ![PyCharm](images/pycharm-icon.png)
+
+## 🔧 Automatización de Pruebas
+
+![JMeter](images/jmeter-icon.png)
+![Selenium](images/selenium-icon.png)
+![Python](images/python-icon.png)
 
 ---
 
