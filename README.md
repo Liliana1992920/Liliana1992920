@@ -27,6 +27,7 @@ Mis habilidades incluyen liderar proyectos de pruebas funcionales, E2E (end-to-e
 ![SAP](images/sap-icon.png)
 ![Visual Studio Code](images/vscode-icon.png)
 ![PyCharm](images/pycharm-icon.png)
+![image](https://github.com/user-attachments/assets/ac5823fc-06fa-4536-9a4d-379e3e0c1fb8)
 
 ## 🔧 Automatización de Pruebas
 
