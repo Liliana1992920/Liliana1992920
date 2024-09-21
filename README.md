@@ -19,15 +19,17 @@ Mis habilidades incluyen liderar proyectos de pruebas funcionales, E2E (end-to-e
 
 ## 🛠️ Herramientas
 
-![Postman](images/postman-icon.png)
+![Postman](![image](https://github.com/user-attachments/assets/8728a04f-4956-4981-bd7e-df8223f57052)
 ![T-SQL](images/sql-icon.png)
 ![PL-SQL](images/plsql-icon.png)
 ![Jira](images/jira-icon.png)
-![Excel](images/excel-icon.png)
+![Excel](images/excel-icon.png)  
 ![SAP](images/sap-icon.png)
 ![Visual Studio Code](images/vscode-icon.png)
 ![PyCharm](images/pycharm-icon.png)
-![image](https://github.com/user-attachments/assets/ac5823fc-06fa-4536-9a4d-379e3e0c1fb8)
+![Android Studio](images/android-studio-icon.png) 
+
+
 
 ## 🔧 Automatización de Pruebas
 
