@@ -3,83 +3,30 @@
 
 ---
 
-## 👩‍💻 Sobre mí
-
-Soy una **Ingeniera en Calidad de Software** con **8 años de experiencia**, incluyendo **3 años en calidad de software** y **5 años en gestión de calidad industrial**. Me especializo en la mejora continua, optimización de procesos y aseguramiento de la calidad en entornos de software y manufactura. 
-
-Mis habilidades incluyen liderar proyectos de pruebas funcionales, E2E (end-to-end) y automatización, garantizando la excelencia en la entrega de productos digitales. También tengo experiencia en la implementación de normas de calidad como **ISO 9001:2015**.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-- **Pruebas de software**: Funcionales, UAT, E2E, REST APIs, pruebas continuas, UML.
-- **Gestión de calidad**: ISO 9001:2015, auditorías internas y externas, KPI's
-- **Metodologías**: Scrum, Kanban, Lean Manufacturing.
-
-## 🛠️ Herramientas
-
-![Postman](images/postman-icon.png)
-![T-SQL](images/sql-icon.png)
-![PL-SQL](images/plsql-icon.png)
-![Jira](images/jira-icon.png)
-![Excel](images/excel-icon.png)  
-![SAP](images/sap-icon.png)
-![Visual Studio Code](images/vscode-icon.png)
-![PyCharm](images/pycharm-icon.png)
-![Android Studio](images/android-studio-icon.png) 
+# 💫 About Me:
+Soy una Ingeniera en Calidad de Software con 8 años de experiencia, incluyendo 3 años en calidad de software y 5 años en gestión de calidad industrial. Me especializo en la mejora continua, optimización de procesos y aseguramiento de la calidad en entornos de software y manufactura.<br><br>Mis habilidades incluyen liderar proyectos de pruebas funcionales, E2E (end-to-end) y automatización, garantizando la excelencia en la entrega de productos digitales. También tengo experiencia en la implementación de normas de calidad como ISO 9001:2015.
 
 
-## 🔧 Automatización de Pruebas
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/lilianamanuelespindola) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/liliana-manuel-espíndola-6572ba152) 
 
-![JMeter](images/jmeter-icon.png)
-![Selenium](images/selenium-icon.png)
-![Python](images/python-icon.png)
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Liliana1992920&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Liliana1992920&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Liliana1992920&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Liliana1992920&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Liliana1992920&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=Liliana1992920&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🌟 Logros Relevantes
-
-- **Reducción del 20%** de incidencias post-producción mediante pruebas continuas en proyectos de e-commerce.
-- **Optimización del 95%** en quejas de clientes al implementar mejoras en procesos de manufactura.
-- **Migración exitosa** de reportes de Excel a T-SQL, aumentando la precisión de los reportes gerenciales.
-
----
-
-## 📝 Proyectos Destacados
-
-### 1. Pruebas Manuales y de Regresión en Urban Routes (Mayo 2024)
-- **Tecnologías**: Postman, JMeter, T-SQL, Selenium.
-- **Descripción**: Pruebas manuales y de regresión para garantizar la estabilidad del sistema.
-
-### 2. Pruebas Funcionales y UI en Urban Routes (Junio 2024)
-- **Tecnologías**: Postman, Selenium, HTML5, CSS3.
-- **Descripción**: Pruebas para asegurar una excelente experiencia de usuario en la web.
-
-### 3. Automatización de Pruebas API en Urban Grocers (Agosto 2024)
-- **Tecnologías**: Postman, PyCharm, Python, Pytest.
-- **Descripción**: Automatización de pruebas de API para asegurar la interoperabilidad y correcto funcionamiento.
-
-### 4. Pruebas Automatizadas en Urban Routes (Septiembre 2024)
-- **Tecnologías**: Selenium, Postman.
-- **Descripción**: Automatización de pruebas funcionales para validar la estabilidad y usabilidad del sitio.
-
----
-
-## 📚 Formación y Certificaciones
-
-- **Ingeniería Industrial**, Instituto Tecnológico Superior de Tamazunchale (2011 - 2016).
-- **Certificación QA Engineer**, TripleTen.
-- **Auditor Líder SGI**, ISO 9001:2015, ISO 14001:2015, ISO 45001:2018.
-
----
-
-## 📫 ¡Conéctate conmigo!
-
-- **Correo**: [lily.spindola.1909@gmail.com](mailto:lily.spindola.1909@gmail.com)
-- **LinkedIn**: [Liliana Manuel Espíndola](https://www.linkedin.com/in/liliana-manuel-esp%C3%ADndola-6572ba152?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
-
----
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
